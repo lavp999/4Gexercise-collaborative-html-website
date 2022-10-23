@@ -2,6 +2,11 @@ body{
     background: #BDBDBD;
 }
 
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
 .tagline{
     background-image: url('../img/bg.jpg');
     
@@ -18,3 +23,23 @@ body{
 }
 
 
+.porfolio{
+    background: #BDBDBD;
+}
+
+.tarjeta {
+    width: 350px;
+    border: none;
+}
+
+.porfolio img {
+    background-color: bg-secondary;
+
+    height: 200px;
+}
+
+.porfolio h3 {
+    color: blue;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
