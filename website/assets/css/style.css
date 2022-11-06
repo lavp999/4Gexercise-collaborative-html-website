@@ -1,3 +1,9 @@
+.borde{
+    border: 1px solid red;
+}
+.borde1{
+    border: 1px solid blue;
+}
 body{
     background: #BDBDBD;
 }
@@ -26,7 +32,8 @@ form{
 }
 
 .services{
-    background: #BDBDBD;
+    background: #BDBDBD;c
+    
 }
 
 
@@ -34,9 +41,9 @@ form{
     background: #BDBDBD;
 }
 
-.tarjeta {
+.card {
     width: 350px;
-    border: none;
+    /* border: none;*/
 }
 
 .porfolio img {
