@@ -55,3 +55,7 @@ form{
     float : right;
     
 }
+.foto{
+    max-width: 100%;
+    height: auto;
+}
