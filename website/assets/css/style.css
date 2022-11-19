@@ -37,8 +37,7 @@ form{
 }
 
 .services{
-    background: #BDBDBD;c
-    
+    background: #BDBDBD;
 }
 
 
@@ -46,14 +45,8 @@ form{
     background: #BDBDBD;
 }
 
-.card {
-    width: 350px;
-    /* border: none;*/
-}
-
 .porfolio img {
     background-color: bg-secondary;
-
     height: 200px;
 }
 
