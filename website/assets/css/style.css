@@ -1,10 +1,21 @@
+.borde{
+    border: 1px solid red;
+}
+.borde1{
+    border: 1px solid blue;
+}
 body{
     background: #BDBDBD;
 }
 
-p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: medium;
+.cabecera1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+}
+
+.cabecera2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
 }
 
 form{
@@ -26,7 +37,8 @@ form{
 }
 
 .services{
-    background: #BDBDBD;
+    background: #BDBDBD;c
+    
 }
 
 
@@ -34,9 +46,9 @@ form{
     background: #BDBDBD;
 }
 
-.tarjeta {
+.card {
     width: 350px;
-    border: none;
+    /* border: none;*/
 }
 
 .porfolio img {
